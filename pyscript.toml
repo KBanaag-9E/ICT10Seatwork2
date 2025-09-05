@@ -1,3 +1,0 @@
-name = "Displaying Rows"
-description = "Showing rows with Python"
-packages = ["pandas"]
